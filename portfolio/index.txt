@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>My Resume</title> 
+ </head> 
+ <body> <!-- Profile Photo --> 
+  <img src="your-photo.jpg" alt="Your Name's Photo"> <!-- Summary or Objective Statement --> 
+  <section> 
+   <h1>Summary</h1> 
+   <p>Your summary or objective statement goes here.</p> 
+  </section> <!-- Education --> 
+  <section> 
+   <h1>Education</h1> 
+   <ul> 
+    <li>Degree in XYZ - jntua anantapur - Graduation Date</li> <!-- Add more education details as needed --> 
+   </ul> 
+  </section> <!-- Work Experience --> 
+  <section> 
+   <h1>Work Experience</h1> 
+   <ul> 
+    <li>Job Title - Employer - Date - Responsibilities</li> <!-- Add more work experience details as needed --> 
+   </ul> 
+  </section> <!-- Skills --> 
+  <section> 
+   <h1>Skills</h1> 
+   <ul> 
+    <li>Skill 1</li> 
+    <li>Skill 2</li> <!-- Add more skills as needed --> 
+   </ul> 
+  </section> <!-- Awards, Certifications, or Achievements --> 
+  <section> 
+   <h1>Awards &amp; Achievements</h1> 
+   <ul> 
+    <li>Award/Certification 1 - Date</li> 
+    <li>Award/Certification 2 - Date</li> <!-- Add more awards or achievements as needed --> 
+   </ul> 
+  </section> <!-- Other Pages --> 
+  <nav> 
+   <ul> 
+    <li><a href="hobbies.html">Hobbies</a></li> <!-- Hobbies --> <!-- Your main portfolio page (index.html) --> 
+    
+  </nav>
+  <li><a href="contact.html">Contact</a></li> <!-- Add more pages as needed --> <!-- Footer --> 
+  <footer> 
+   <p>© 2024 Your Name. All rights reserved.</p> 
+  </footer> 
+ </body>
+</html>

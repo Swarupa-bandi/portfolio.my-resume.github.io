@@ -1,0 +1,36 @@
+<!-- hobbies_travel.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Hobbies</title>
+</head>
+<body>
+
+    <header>
+        <h1>Travel Hobbies</h1>
+    </header>
+
+    <section>
+        <h2>Favorite Destinations</h2>
+        <ul>
+            <li></li>
+            <li>Destination 2</li>
+            <!-- Add more destinations as needed -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Travel Experiences</h2>
+        <p>Share your memorable travel experiences here.</p>
+    </section>
+
+    <!-- Add more sections for other aspects of your travel hobbies -->
+
+    <footer>
+        <p>Your Name &copy; 2024</p>
+    </footer>
+
+</body>
+</html>
